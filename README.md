@@ -1,1 +1,1 @@
-For this project I created word embeddings using sample text. I also used "Google News" word embeddings to find relationships between words and understand word meanings. I used various measures to compare word meanings such as cosine similarity, Euclidean distance, and PPMI.
+For this project I created word embeddings using sample text. I also used "Google News" word embeddings to find relationships between words and to understand word meanings. I used various measures to find and compare word meanings such as cosine similarity, Euclidean distance, and PPMI.
