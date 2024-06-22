@@ -1,0 +1,1 @@
+For this project, I analyzed sample text and Google's News corpora to calculate relationships between words, to understand word meanings. I used various measures to compare word meanings, such as cosine similarity, Euclidean distance, and PPMI.
